@@ -47,9 +47,14 @@ l'intérieur de la boucle. Montre que `i` n'est pas accessible après le `for`.
 
 ## Exercice 7 — Déclaration multiple
 
-Déclare trois variables (`largeur`, `hauteur`, `profondeur`) sur une seule
-ligne avec des valeurs différentes, puis calcule et affiche leur produit
-(le volume).
+1. Déclare trois variables (`largeur`, `hauteur`, `profondeur`) sur une seule
+   ligne avec des valeurs différentes, puis calcule et affiche leur produit
+   (le volume).
+2. Déclare ensuite, dans un bloc `var (...)`, trois variables de types
+   différents : un `string` nommé `nom`, un `int` nommé `age` et un `bool`
+   nommé `actif`. Affiche les trois.
+3. Enfin, déclare deux variables `x` et `y` en une seule ligne avec `:=`
+   (ex. `x, y := "hello", "world"`) et affiche-les.
 
 ## Exercice 8 — Échanger deux valeurs
 
