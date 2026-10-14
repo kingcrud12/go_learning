@@ -6,6 +6,6 @@ Ce repository vous permet d'apprendre le langage Go à l'aide d'exemples de code
 
 - Un dossier internal contenant : les différents exemples de code, inculant les explications
 
-- Un dossier exercices contenant : Les exercices se trouvent dans le dossier exercices, sous formes de fichier .md
+- Un dossier exercices contenant : Les exercices sous formes de fichier .md
 
 - Un dossier summary contenant : des notes sur le langage, vous permettant d'enrichir votre connaissance du langage.
