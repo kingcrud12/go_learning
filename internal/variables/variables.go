@@ -34,21 +34,6 @@ func declarationCourte() {
 	fmt.Println(age, prenom, actif)
 }
 
-// declarationMultiple regroupe plusieurs variables sur une seule ligne
-// ou dans un bloc var(...).
-func declarationMultiple() {
-	var a, b, c = 1, 2, 3
-	x, y := "hello", "world"
-
-	var (
-		nom   string = "Dupont"
-		age   int    = 25
-		actif bool   = true
-	)
-
-	fmt.Println(a, b, c, x, y, nom, age, actif)
-}
-
 // valeursZero montre la valeur par défaut attribuée à une variable
 // déclarée sans valeur initiale.
 func valeursZero() {
@@ -110,7 +95,6 @@ func Run() {
 	declarationExplicite()
 	declarationInferee()
 	declarationCourte()
-	declarationMultiple()
 	valeursZero()
 	conversionDeType()
 	portee()
